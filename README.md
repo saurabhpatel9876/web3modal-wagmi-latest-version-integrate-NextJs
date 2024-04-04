@@ -1,3 +1,4 @@
+very important:- always put name as .tsx for context/Web3Modal.tsx not .ts
 dependencies to install:-
 1.
 npm install @web3modal/wagmi
